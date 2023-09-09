@@ -16,3 +16,8 @@ dnsName: service.installation1.acme.org
 # for the installed service.
 #
 replicas: 10
+
+#
+# color is used as background color for your UI
+#
+color: "#f0f0ff"
