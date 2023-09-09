@@ -15,14 +15,9 @@ dnsName: service.installation1.acme.org
 # replicas specifies the number of pods to be deployed 
 # for the installed service.
 #
-<<<<<<< HEAD
-replicas: 1 # this is the delivery default
+replicas: 10
 
 #
 # color is used as background color for your UI
 #
-color: "#f0f000"
-
-=======
-replicas: 10
->>>>>>> origin/main
+color: "#f0f0ff"
