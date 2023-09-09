@@ -16,3 +16,9 @@ dnsName: <REQUIRED>
 # for the installed service.
 #
 replicas: 1 # this is the delivery default
+
+#
+# color is used as background color for your UI
+#
+color: "#f0f000"
+
