@@ -1,0 +1,18 @@
+#
+# this a cofiguration templated provided by the software provider
+# it contain a default configuration for product P1
+# and markers for paraneters required to be set in an installation
+# specific manner:
+#
+
+#
+# The dnsName is the DNS name to be used for the installed service
+# It must be set specific for a dedicated installation.
+#
+dnsName: <REQUIRED>
+
+#
+# replicals specified the numer of pods to be deployed 
+# for the installed service.
+#
+replicas: 1 # this is the delivery default
