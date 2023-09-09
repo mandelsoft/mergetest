@@ -9,7 +9,7 @@
 # The dnsName is the DNS name to be used for the installed service
 # It must be set specific for a dedicated installation.
 #
-dnsName: <REQUIRED>
+dnsName: service.intsllation2.acme.org
 
 #
 # replicals specified the numer of pods to be deployed 
@@ -24,4 +24,4 @@ replicas: 1 # this is the delivery default
 uses:
   #
   # P2 requires an instance of P1 to work
-  p1: <REQUIRED>
+  p1: installation1
