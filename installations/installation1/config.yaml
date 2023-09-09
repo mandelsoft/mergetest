@@ -15,4 +15,4 @@ dnsName: service.installation1.acme.org
 # replicas specifies the number of pods to be deployed 
 # for the installed service.
 #
-replicas: 5
+replicas: 10
